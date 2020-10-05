@@ -1,0 +1,43 @@
+body {
+        color: black;
+        margin: 0px;
+        text-align: center
+}
+
+.container {
+    background-color: black;
+}
+
+.containerr {
+    background-color: darkslategray;
+}
+
+img {
+    vertical-align: middle;
+    width: 1500px;
+    height: 1500px;
+    border-radius: 200px;
+    border: solid;
+    border-color: darkslategrey;
+    border-top: 50px;
+}
+
+#silly {
+    background-color: yellow;
+    height: 150px;
+    line-height: 150px;
+}
+
+#silly a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 75px;
+}
+
+#silly a:hover {
+    color: red;
+}
+
+

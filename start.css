@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    margin: 0px;
+}
+
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+}
+
+#header a:hover {
+    color: white;
+}
+
+#header {
+    max-height: 1000px;
+    margin-top: 250px;
+}
+
+#header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+}
